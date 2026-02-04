@@ -1,1 +1,5 @@
-# Dynamic-Object-Reflection
+# Dynamic Object Comparison in ASP.NET with Reflection
+
+This approach demonstrates how reflection can be used to detect new and updated entities between two collections in ASP.NET. By providing a property name (such as Name) at runtime, the CompareByPropertyValue method dynamically identifies a logical key without hard-coding it. Reflection is used to retrieve the specified property and all readable public properties of the class, making the comparison logic generic and reusable across different models. This allows developers to compare lists of objects—commonly seen in data synchronization or import scenarios—without writing entity-specific comparison code.
+
+The method classifies items into NewItem and UpdatedItem categories. An item is considered new if no matching key value exists in the destination list. If a matching key is found, a full property-by-property comparison is performed to determine whether the object has changed, in which case it is marked as updated. This pattern is especially useful for scenarios such as database upserts, API data reconciliation, or auditing changes, where you need a flexible and maintainable way to detect differences between object graphs using reflection rather than manual comparisons.
