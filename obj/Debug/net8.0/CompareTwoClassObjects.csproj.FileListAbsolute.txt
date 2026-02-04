@@ -1,0 +1,14 @@
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\bin\Debug\net8.0\CompareTwoClassObjects.exe
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\bin\Debug\net8.0\CompareTwoClassObjects.deps.json
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\bin\Debug\net8.0\CompareTwoClassObjects.runtimeconfig.json
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\bin\Debug\net8.0\CompareTwoClassObjects.dll
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\bin\Debug\net8.0\CompareTwoClassObjects.pdb
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.AssemblyInfoInputs.cache
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.AssemblyInfo.cs
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.csproj.CoreCompileInputs.cache
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.dll
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\refint\CompareTwoClassObjects.dll
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.pdb
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\CompareTwoClassObjects.genruntimeconfig.cache
+D:\Learn\CSharp\DayByDay\CompareTwoClassObjects\obj\Debug\net8.0\ref\CompareTwoClassObjects.dll
